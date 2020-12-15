@@ -1,7 +1,21 @@
-# Elixir Generated
+# ElixirGenerated
 
-Examples of different version of Elixir using the generator:
+**TODO: Add description**
 
-    mix new --sup elixir_generated
+## Installation
 
-Checkout the branches to see the different versions.
+If [available in Hex](https://hex.pm/docs/publish), the package can be installed
+by adding `elixir_generated` to your list of dependencies in `mix.exs`:
+
+```elixir
+def deps do
+  [
+    {:elixir_generated, "~> 0.1.0"}
+  ]
+end
+```
+
+Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
+and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
+be found at [https://hexdocs.pm/elixir_generated](https://hexdocs.pm/elixir_generated).
+
